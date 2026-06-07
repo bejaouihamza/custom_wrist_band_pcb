@@ -22,15 +22,11 @@ haptic feedback, MEMS audio, and a full battery-management system.**
 
 | 3D Model (Top) | 3D Model (Bottom) |
 |:-:|:-:|
-| ![3D Top]((https://raw.githubusercontent.com/bejaouihamza/custom_wrist_band_pcb/refs/heads/main/wrist_band_top.jpg)) | ![3D Bottom](images/3d_bottom.png) |
+| ![3D Top](https://raw.githubusercontent.com/bejaouihamza/custom_wrist_band_pcb/refs/heads/main/wrist_band_top.jpg) | ![3D Bottom](https://github.com/bejaouihamza/custom_wrist_band_pcb/blob/main/20260327_232929.jpg?raw=true) |
 
-| PCB Layout (Top) | PCB Layout (Bottom) |
+| Full Schematic | PCB Layout (Bottom) |
 |:-:|:-:|
-| ![Layout Top](images/layout_top.png) | ![Layout Bottom](images/layout_bottom.png) |
-
-| Full Schematic |
-|:-:|
-| ![Schematic](images/schematic.png) |
+|![Schematic](https://github.com/bejaouihamza/custom_wrist_band_pcb/blob/main/Capture%20d'%C3%A9cran%202026-06-07%20174537.png?raw=true) | ![Layout Bottom](https://github.com/bejaouihamza/custom_wrist_band_pcb/blob/main/Capture%20d'%C3%A9cran%202026-06-07%20174246.png?raw=true) |
 
 > 📁 **To add your images:** create an `images/` folder in the repo root and export your renders from KiCad (File → Export → PNG / 3D Viewer → Export PNG). Replace the filenames above to match.
 
